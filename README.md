@@ -3,17 +3,18 @@
 I'm a human-centered designer at the U.S. Digital Service. This is my work profile. I also have a [personal profile](https://github.com/humancompanion/).
 
 ####  🔭  I’m currently working on ...
+* [Emergency Rental Assistance](https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/emergency-rental-assistance-program)
+
+#### I have worked on...
 * [Social Security](https://github.com/usds/ssa)
 * [SME-QA](https://smeqa.usds.gov)
-* USCIS Design System
-* CX Journey Mapping 
 
 ####  🌱  I’m currently learning ...
-* Relearning how to juggle multiple projects at once
+* How to be patient 
 
 #### 💬  Ask me about ...
+* Design Systems including USWDS
 * Federal hiring
-* Design Systems
 
 #### 📫  How to reach me: ...
 * USDS Slack
