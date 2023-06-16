@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a human-centered designer at the U.S. Digital Service. This is my work profile. I also have a [personal profile](https://github.com/humancompanion/).
+I'm a human-centered designer at the Department of Veteran Affairs. This is my work profile. I also have a [personal profile](https://github.com/humancompanion/).
 
 ####  🔭  I’m currently working on ...
-[VA Design System](https://design.va.gov/)
+Design and governance at the VA in the Office of the CTO. Including the [VA Design System](https://design.va.gov/) and Forms System.
 
 #### I have worked on...
 * [Emergency Rental Assistance](https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/emergency-rental-assistance-program)
@@ -11,10 +11,10 @@ I'm a human-centered designer at the U.S. Digital Service. This is my work profi
 * [SME-QA](https://smeqa.usds.gov)
 
 ####  🌱  I’m currently learning ...
-* How to contribute to the OCTO team at the VA
+* Design Ops
 
 #### 💬  Ask me about ...
-* Design Systems including USWDS
+* Design Systems including the U.S. Web Design System
 * Designing in an emergency context
 * Federal hiring
 
@@ -25,6 +25,9 @@ I'm a human-centered designer at the U.S. Digital Service. This is my work profi
 
 #### 😄  Pronouns: ...
 * He/him
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humancompanion-usds&show_icons=true)
 
 <!--
 - 👯 I’m looking to collaborate on ...
