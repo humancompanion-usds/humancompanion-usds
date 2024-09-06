@@ -20,7 +20,6 @@ Design and governance at the VA in the Office of the CTO. Including the [VA Desi
 
 #### 📫  How to reach me: ...
 * USDS Slack
-* [Twitter](https://twitter.com/humancompanion)
 * [Personal site](https://www.abarrelofthis.com/)
 
 #### 😄  Pronouns: ...
