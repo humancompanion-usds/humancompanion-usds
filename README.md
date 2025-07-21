@@ -1,3 +1,17 @@
+---
+name: Matthew Dingee
+start-date: 6/19/2023
+role-description: Office of the CTO (OCTO) in the Platform Services & Governance crew (Crew lead) and the Product Owner & Designer for the Design & Forms Systems, Governance, & Platform Support.
+location: 811 Vermont Ave. NW Washington, DC
+time-zone-name: Eastern
+OCTO-product-owner:
+  - team: Design & Forms Systems
+  - team: Governance
+  - team: Support
+Crew-lead: Platform Services & Governance
+---
+
+
 ### Hi there 👋
 
 I'm a human-centered designer at the Department of Veteran Affairs. This is my work profile. I also have a [personal profile](https://github.com/humancompanion/).
