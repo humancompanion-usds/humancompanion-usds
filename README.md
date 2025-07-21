@@ -17,28 +17,30 @@ Crew-lead: Platform Services & Governance
 I'm a human-centered designer at the Department of Veteran Affairs. This is my work profile. I also have a [personal profile](https://github.com/humancompanion/).
 
 ####  🔭  I’m currently working on ...
+
 Design and governance at the VA in the Office of the CTO. Including the [VA Design System](https://design.va.gov/) and Forms System.
 
 #### I have worked on...
+
+* [design.va.gov](https://design.va.gov/)
 * [Emergency Rental Assistance](https://home.treasury.gov/policy-issues/coronavirus/assistance-for-state-local-and-tribal-governments/emergency-rental-assistance-program)
 * [Social Security](https://github.com/usds/ssa)
 * [SME-QA](https://smeqa.usds.gov)
 
 ####  🌱  I’m currently learning ...
-* Design Ops
+
+* AI prompt engineering
 
 #### 💬  Ask me about ...
+
 * Design Systems including the U.S. Web Design System
 * Designing in an emergency context
 * Federal hiring
 
 #### 📫  How to reach me: ...
-* USDS Slack
+
+* [VA Slack](https://dsva.slack.com/)
 * [Personal site](https://www.abarrelofthis.com/)
-
-#### 😄  Pronouns: ...
-* He/him
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humancompanion-usds&show_icons=true)
 
