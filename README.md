@@ -4,7 +4,8 @@ start-date: 6/19/2023
 role-description: Office of the CTO (OCTO) in the Platform Services & Governance crew (Crew lead) and the Product Owner & Designer for the Design & Forms Systems, Governance, & Platform Support.
 location: 811 Vermont Ave. NW Washington, DC
 time-zone-name: Eastern
-role: OCTO-PO
+organizational-unit: Office of the CTO (OCTO)
+role: Product Owner
 teams:
   - name: "Design & Forms Systems"
     github_label: "platform-design-system-team"
@@ -22,8 +23,8 @@ teams:
     products:
       - "Platform Support"
       - "Product Directory"
-role: OCTO Crew Lead
-crew: Platform Services & Governance
+role: Crew Lead
+crew-name: Platform Services & Governance
 ---
 
 
