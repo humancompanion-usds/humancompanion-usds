@@ -56,7 +56,6 @@ Design and governance at the VA in the Office of the CTO. Including the [VA Desi
 ## 📫  How to reach me: ...
 
 * [VA Slack](https://dsva.slack.com/)
-* [Personal site](https://www.abarrelofthis.com/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humancompanion-usds&show_icons=true)
 
